@@ -1,5 +1,5 @@
 # TBA - Group
-## Interviewer: Ivan Sotelo Codo
+## Interviewee: Ivan Sotelo Codo
 
 Application built for the hiring process of the candidate Ivan Sotelo Codo.
 
