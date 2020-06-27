@@ -8,8 +8,8 @@ First you need to have installed on your computer:
 1 - Maven 3 or latest  
 2 - Java 11 or latest  
 3 - Port 27017 available to connect to the database  
-4 - Port 8080 available to be used by the application
-5 - a connection to the internet.  :) Even developers can turn into normal users  
+4 - Port 8080 available to be used by the application  
+
    
 Clone the repo: https://github.com/ivanscodo/cranecontrol  
 1 - run `mvn clean install` on the folder you cloned the application  
