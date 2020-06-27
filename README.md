@@ -46,4 +46,5 @@ If you prefer to use command line, follow below some commands you can use to tes
 
 Observations  
 Based on time constraints some stuff aren't done.  
-We could have added some features like delete by id, delete all, docker support, more validations, more tests, documentation, and logs, but the application is runnable and tested.  
+We could have added some features like delete by id, delete all, docker support, more validations, more tests, documentation, and logs, but the application is runnable.  
+
