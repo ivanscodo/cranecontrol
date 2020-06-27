@@ -24,7 +24,7 @@ If you prefer to use command line, follow below some commands you can use to tes
 <li><code>curl --request POST \
             --url http://localhost:8080/lane \
             --header 'content-type: application/json' 
-            --data '{"lanes":10, "positions":20}'</code>
+            --data '{"lanes":1, "positions":10}'</code>
 </li>
 </ul>
 </li>
