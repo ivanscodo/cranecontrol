@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://test:test@cluster1-qhind.mongodb.net/cranecontrol?minPoolSize=10&maxPoolSize=100&maxIdleTimeMS=15000&waitQueueMultiple=100&socketTimeoutMS=50000
+
+logging:
+  level:
+    root: ERROR
+    org.springframework: ERROR
+    com.tba: WARN
